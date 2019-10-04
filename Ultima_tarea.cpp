@@ -1,5 +1,5 @@
 #include <iostream>
-
+//añadari cocktailsort
 using namespace std;
 
 void ordenar(int* ini, int* final, int size) {
